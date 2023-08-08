@@ -1,5 +1,6 @@
-
-
+git Clone https://github.com/Kefayatkhanm/Car.git
+cd Car
+python M-TECH.py
 
 
 
